@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍💻 About Me<br><br>  🎓 B.Tech Student<br>  🤖 Interested in AI, ML, and Automation<br>  🛠️ Building real-world projects using modern tools<br>  📈 Always learning and improving<br><br> 🔥 Current Focus<br><br>  Agentic AI & AI-powered development tools<br>  Full-stack projects with real-world use cases<br><br> 💡 Tech Stack<br><br>   Languages: Python, JavaScript<br>   Tools: Git, VS Code, Cursor, Claude, etc.<br><br>  🚀 Mission<br><br>To become a skilled developer who builds impactful and intelligent systems.<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+ 👨‍💻 About Me<br><br>  🎓 B.Tech Student<br>  🤖 Interested in AI, ML, and Automation<br>  🛠️ Building real-world projects using modern tools<br>  📈 Always learning and improving<br><br> 🔥 Current Focus<br><br>  Agentic AI & AI-powered development tools<br>  Full-stack projects with real-world use cases<br><br>   🚀 Mission<br><br>To become a skilled developer who builds impactful and intelligent systems.<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
