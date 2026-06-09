@@ -118,7 +118,6 @@ const sujal = {
 [![Peerlist](https://img.shields.io/badge/Peerlist-%2300AA45.svg?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/meenasujal)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sujal_meena_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sujalmeena_7)
-[![Codepen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/fatherstretchmylegsp)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenasujal60@gmail.com)
 
 </div>
