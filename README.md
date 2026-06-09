@@ -115,6 +115,7 @@ const sujal = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sujalmeena.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-meena-170418371)
+[![Peerlist](https://img.shields.io/badge/Peerlist-%2300AA45.svg?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/meenasujal)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sujal_meena_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sujalmeena_7)
 [![Codepen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/fatherstretchmylegsp)
