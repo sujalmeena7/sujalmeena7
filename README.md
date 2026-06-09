@@ -103,7 +103,7 @@ const sujal = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=sujalmeena7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=6)
+![](https://github-profile-trophy-tawny.vercel.app/?username=sujalmeena7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=6)
 
 </div>
 
