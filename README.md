@@ -8,6 +8,16 @@
 
 <br/>
 
+<!-- Tech Stack Badges -->
+![Python](https://img.shields.io/badge/Python-Backend-FFD43B?style=flat-square&labelColor=2b2b2b)
+![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=flat-square&labelColor=2b2b2b)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&labelColor=2b2b2b)
+![LangChain](https://img.shields.io/badge/LangChain-AI%2FRAG-8A2BE2?style=flat-square&labelColor=2b2b2b)
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=flat-square&labelColor=2b2b2b)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&labelColor=2b2b2b)
+
+<br/>
+
 <!-- Profile Views & Followers -->
 [![](https://visitcount.itsvg.in/api?id=sujalmeena7&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 &nbsp;
@@ -25,12 +35,6 @@ const sujal = {
   location    : "India 🇮🇳",
   currentFocus: ["Agentic AI", "AI-Powered Dev Tools", "Full-Stack Systems"],
   building    : "Sentinel-SRE — AI Incident RCA Tool for DevOps Teams",
-  stack       : {
-    languages: ["Python", "TypeScript"],
-    backend  : ["FastAPI", "Next.js", "React"],
-    ai_ml    : ["LangChain", "LlamaIndex", "ChromaDB"],
-    infra    : ["Docker", "AWS", "PostgreSQL", "Supabase"]
-  },
   mission     : "Build impactful, intelligent systems that solve real problems"
 };
 ```
