@@ -13,8 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=flat-square&labelColor=2b2b2b)
 <br/>
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&labelColor=2b2b2b) &nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-AI%2FRAG-8A2BE2?style=flat-square&labelColor=2b2b2b)
-<br/>
+![LangChain](https://img.shields.io/badge/LangChain-AI%2FRAG-8A2BE2?style=flat-square&labelColor=2b2b2b) &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=flat-square&labelColor=2b2b2b) &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&labelColor=2b2b2b)
 
