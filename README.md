@@ -21,13 +21,17 @@
 
 ```typescript
 const sujal = {
-  role        : "B.Tech Student → Future AI/ML Engineer",
+  role        : "B.Tech CSE @ PEC Chandigarh → AI/ML Engineer",
   location    : "India 🇮🇳",
-  currentFocus: ["Agentic AI", "AI-Powered Dev Tools", "Full-Stack Projects"],
-  learning    : ["LLMs", "RAG Pipelines", "DevOps & Automation"],
-  building    : "AI Incident RCA Tool for DevOps Teams",
-  mission     : "Build impactful, intelligent systems that solve real problems",
-  funFact     : "I debug with console.log and I'm not ashamed 😤"
+  currentFocus: ["Agentic AI", "AI-Powered Dev Tools", "Full-Stack Systems"],
+  building    : "Sentinel-SRE — AI Incident RCA Tool for DevOps Teams",
+  stack       : {
+    languages: ["Python", "TypeScript"],
+    backend  : ["FastAPI", "Next.js", "React"],
+    ai_ml    : ["LangChain", "LlamaIndex", "ChromaDB"],
+    infra    : ["Docker", "AWS", "PostgreSQL", "Supabase"]
+  },
+  mission     : "Build impactful, intelligent systems that solve real problems"
 };
 ```
 
@@ -35,41 +39,11 @@ const sujal = {
 
 ## 🔥 What I'm Working On
 
-> 🛠️ **AI-Powered Incident Root Cause Analysis (RCA) Tool**  
-> Targeting DevOps/SRE teams — hybrid rule-based + LLM engine using Claude, integrating with PagerDuty & Prometheus AlertManager. Moving toward a $50/mo paid beta.
+> 🛠️ **Sentinel-SRE — AI-Powered Incident Root Cause Analysis**
+> Hybrid rule-based + LLM engine, integrating with PagerDuty & Prometheus AlertManager. Moving toward a $50/mo paid beta.
 
-> 🤖 **Agentic AI Experiments**  
-> Exploring multi-agent workflows, tool-use pipelines, and automation that goes beyond simple chatbots.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**AI / LLM**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+> 🔒 **LexGuard AI — Multi-Tenant DPDP Act Compliance SaaS**
+> Built with LangChain, Groq, AWS EC2 & Docker, with hardened auth and payment infrastructure.
 
 ---
 
@@ -77,7 +51,6 @@ const sujal = {
 
 <div align="center">
 
-<!-- Using token-free stats that reliably load -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujalmeena7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmeena7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -138,8 +111,8 @@ const sujal = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-**⚡ Open to collaborations, internships & full-time opportunities**  
+**⚡ Open to collaborations, internships & full-time opportunities**
 *Drop a message — I reply fast 🚀*
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># sujalmeena_7
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
