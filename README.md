@@ -45,9 +45,11 @@ const sujal = {
 ## 🔥 What I'm Working On
 
 > 🛠️ **Sentinel-SRE — AI-Powered Incident Root Cause Analysis**
+>
 > Hybrid rule-based + LLM engine, integrating with PagerDuty & Prometheus AlertManager. Moving toward a $50/mo paid beta.
 
 > 🔒 **LexGuard AI — Multi-Tenant DPDP Act Compliance SaaS**
+>
 > Built with LangChain, Groq, AWS EC2 & Docker, with hardened auth and payment infrastructure.
 
 ---
