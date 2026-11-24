@@ -2,6 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1026,45:30235E,100:6554D9&amp;height=155&amp;section=header&amp;text=Sujal%20Meena&amp;fontSize=49&amp;fontColor=FFFFFF&amp;fontAlignY=37&amp;animation=fadeIn&amp;desc=AI%20Engineering%20%7C%20Backend%20Systems%20%7C%20Building%20for%20the%20real%20world&amp;descSize=14&amp;descColor=DDD6FE&amp;descAlignY=63" alt="Sujal Meena — AI engineering and backend systems" />
 <br/>
 <strong>B.Tech CSE (Data Science) · PEC Chandigarh · Class of 2027</strong>
+  
 <br/>
 <a href="https://www.sujalmeena.xyz/"><img src="https://img.shields.io/badge/Portfolio-17152E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sujal-meena-170418371"><img src="https://img.shields.io/badge/LinkedIn-4D43AB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
