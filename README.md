@@ -1,125 +1,96 @@
-<div align="center">
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,45:30235E,100:6554D9&height=215&section=header&text=Sujal%20Meena&fontSize=58&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=AI%20Engineering%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Building%20for%20the%20real%20world&descSize=17&descColor=DDD6FE&descAlignY=58" alt="Sujal Meena — AI engineering and backend systems" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1400&color=9F8BFF&center=true&vCenter=true&width=720&height=45&lines=I+build+AI+systems+that+ship.;From+RAG+pipelines+to+production+APIs.;Always+learning.+Always+building." alt="AI systems, production APIs, continuous learning" /><p>
+  <strong>B.Tech CSE (Data Science) @ PEC Chandigarh · Class of 2027</strong><br/>
+  <sub>Python · FastAPI · Agentic AI · RAG · Cloud · Full-Stack</sub>
+</p><a href="https://www.sujalmeena.xyz/"><img src="https://img.shields.io/badge/Portfolio-17152E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/sujal-meena-170418371"><img src="https://img.shields.io/badge/LinkedIn-4D43AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/sujalmeena7"><img src="https://img.shields.io/badge/GitHub-17152E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:meenasujal60@gmail.com"><img src="https://img.shields.io/badge/Email-4D43AB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sujal%20Meena&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20AI%20%2F%20ML%20%2F%20Full-Stack&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+Student+%7C+AI+Enthusiast;Building+Agentic+AI+Systems;Full-Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
 
-<!-- Tech Stack Badges -->
-![Python](https://img.shields.io/badge/Python-Backend-FFD43B?style=flat-square&labelColor=2b2b2b) &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-3178C6?style=flat-square&labelColor=2b2b2b)
-<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&labelColor=2b2b2b) &nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-AI%2FRAG-8A2BE2?style=flat-square&labelColor=2b2b2b) &nbsp;
-![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=flat-square&labelColor=2b2b2b) &nbsp;
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&labelColor=2b2b2b)
+<img src="https://komarev.com/ghpvc/?username=sujalmeena7&label=PROFILE+VIEWS&color=6554D9&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/sujalmeena7?label=FOLLOWERS&style=flat-square&color=6554D9" alt="GitHub followers" />
+</div>Hey, I'm Sujal 👋
+I build AI-powered products and backend systems, with an interest in making LLM applications reliable enough for real workflows — not just demos.
+- Currently building: Sentinel-SRE, an AI-powered incident investigation and root-cause analysis platform.
+- Previously shipped: LexGuard AI, a multi-tenant compliance analysis SaaS.
+- Industry experience: Data Analyst & Automation Intern at BHEL, working with Python, SQL, forecasting, and operational dashboards.
+- Also built: Tab Hibernator Pro, a published Chrome extension that reached 2,400+ weekly active users at its peak.
+- Open to: AI engineering, backend, full-stack, and software engineering opportunities.
+Selected work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Sentinel-SRE</h3>
+      <p><b>AI-powered incident RCA & observability</b></p>
+      <p>Turns Prometheus alerts into actionable root-cause hypotheses with a RAG pipeline, structured reasoning, and guardrails.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>LlamaIndex</code> <code>ChromaDB</code> <code>Docker</code> <code>AWS</code></p>
+      <p><b>Engineering highlight:</b> Non-blocking API design with detached inference workers; measured under 200 ms P99 API latency.</p>
+      <p><a href="https://sentinelsre.vercel.app"><b>↗ Explore live project</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ LexGuard AI</h3>
+      <p><b>Multi-tenant AI compliance SaaS</b></p>
+      <p>Analyzes DPDP Act clauses and produces structured risk flags and remediation recommendations for businesses.</p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>LangChain</code> <code>PostgreSQL</code> <code>Docker</code> <code>AWS</code></p>
+      <p><b>Engineering highlight:</b> Role-based access control, relational data modeling, and containerized cloud deployment.</p>
+      <p><a href="https://lexguard.co.in"><b>↗ Explore live project</b></a></p>
+    </td>
+  </tr>
+</table><details>
+<summary><b>More things I've built</b></summary>
+<br/>Tab Hibernator Pro — Chrome extension
+Built to reduce inactive-tab memory use while protecting active media and form inputs. Reached 2.4K+ weekly active users at peak.
 
-<br/>
+Warehouse optimization prototype — BHEL
+Built Python/SQL pipelines, forecasting models and KPI dashboards to support inventory monitoring and reorder planning.
+</details>Toolbox
+Languages & frameworks
 
-<!-- Profile Views & Followers -->
-[![](https://visitcount.itsvg.in/api?id=sujalmeena7&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/sujalmeena7?label=Followers&style=social)
 
-</div>
 
----
 
-## 🧠 About Me
 
-```typescript
-const sujal = {
-  role        : "B.Tech CSE @ PEC Chandigarh → AI/ML Engineer",
-  location    : "India 🇮🇳",
-  currentFocus: ["Agentic AI", "AI-Powered Dev Tools", "Full-Stack Systems"],
-  building    : "Sentinel-SRE — AI Incident RCA Tool for DevOps Teams",
-  mission     : "Build impactful, intelligent systems that solve real problems"
-};
-```
 
----
 
-## 🔥 What I'm Working On
+AI & data
 
-> 🛠️ **Sentinel-SRE — AI-Powered Incident Root Cause Analysis**
->
-> Hybrid rule-based + LLM engine, integrating with PagerDuty & Prometheus AlertManager. Moving toward a $50/mo paid beta.
 
-> 🔒 **LexGuard AI — Multi-Tenant DPDP Act Compliance SaaS**
->
-> Built with LangChain, Groq, AWS EC2 & Docker, with hardened auth and payment infrastructure.
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujalmeena7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmeena7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</div>
+Cloud & tooling
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalmeena7&theme=tokyonight&hide_border=true" />
 
-</div>
 
-<div align="center">
 
-<!-- GitHub Activity Graph -->
-[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalmeena7&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Certification
+<table>
+  <tr>
+    <td width="130" align="center" valign="middle"><img src="./assets/oracle-agentic-ai.jpg" width="115" alt="Oracle Agentic AI Foundations Associate 2026 certification badge" /></td>
+    <td valign="middle">
+      <b>Oracle Certified Foundations Associate — Agentic AI</b><br/>
+      Oracle University · Issued November 2026<br/>
+      <sub>Agentic AI foundations and related concepts</sub>
+    </td>
+  </tr>
+</table>GitHub activity
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sujalmeena7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="Sujal's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmeena7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" alt="Top languages on GitHub" /></div><div align="center"><b>Let's build something useful.</b>
 
-</div>
 
----
 
-## 🏆 GitHub Trophies
+<a href="https://www.sujalmeena.xyz/">Portfolio</a> ·
+<a href="https://linkedin.com/in/sujal-meena-170418371">LinkedIn</a> ·
+<a href="https://peerlist.io/meenasujal">Peerlist</a> ·
+<a href="https://x.com/sujal_meena_">X</a> ·
+<a href="mailto:meenasujal60@gmail.com">Email</a>
 
-<div align="center">
 
-![](https://github-profile-trophy-tawny.vercel.app/?username=sujalmeena7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=6)
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sujalmeena.xyz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-meena-170418371)
-[![Peerlist](https://img.shields.io/badge/Peerlist-%2300AA45.svg?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/meenasujal)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sujal_meena_)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sujalmeena_7)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenasujal60@gmail.com)
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-**⚡ Open to collaborations, internships & full-time opportunities**
-*Drop a message — I reply fast 🚀*
-
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Open to engineering internships, graduate roles, and interesting collaborations.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6554D9,55:30235E,100:0B1026&height=110&section=footer" alt="Footer" /></div>
