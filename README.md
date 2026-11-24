@@ -3,6 +3,7 @@
 <br/>
 <strong>B.Tech CSE (Data Science) · PEC Chandigarh · Class of 2027</strong>
 <br/>
+  
 <a href="https://www.sujalmeena.xyz/"><img src="https://img.shields.io/badge/Portfolio-17152E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sujal-meena-170418371"><img src="https://img.shields.io/badge/LinkedIn-4D43AB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/sujalmeena7"><img src="https://img.shields.io/badge/GitHub-17152E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
@@ -10,6 +11,7 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=sujalmeena7&amp;label=PROFILE+VIEWS&amp;color=6554D9&amp;style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/sujalmeena7?label=FOLLOWERS&amp;style=flat-square&amp;color=6554D9" alt="GitHub followers" />
+
 </div>Hey, I'm Sujal 👋
 I build AI-powered products and backend systems. I'm especially interested in making LLM applications reliable enough for real workflows — not just demos.
 - Currently building: Sentinel-SRE, an AI-powered incident investigation and root-cause analysis platform.
@@ -17,6 +19,7 @@ I build AI-powered products and backend systems. I'm especially interested in ma
 - Industry experience: Data Analyst & Automation Intern at BHEL, working with Python, SQL, forecasting, and operational dashboards.
 - Also built: Tab Hibernator Pro, a published Chrome extension that reached 2,400+ weekly active users at its peak.
 - Open to: AI engineering, backend, full-stack, and 2027 graduate software engineering opportunities.
+
 Selected work
 <table>
   <tr>
