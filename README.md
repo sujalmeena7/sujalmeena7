@@ -3,7 +3,6 @@
 <br/>
 <strong>B.Tech CSE (Data Science) · PEC Chandigarh · Class of 2027</strong>
 <br/>
-  
 <a href="https://www.sujalmeena.xyz/"><img src="https://img.shields.io/badge/Portfolio-17152E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sujal-meena-170418371"><img src="https://img.shields.io/badge/LinkedIn-4D43AB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/sujalmeena7"><img src="https://img.shields.io/badge/GitHub-17152E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
@@ -11,16 +10,21 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=sujalmeena7&amp;label=PROFILE+VIEWS&amp;color=6554D9&amp;style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/sujalmeena7?label=FOLLOWERS&amp;style=flat-square&amp;color=6554D9" alt="GitHub followers" />
+</div>
 
-</div>Hey, I'm Sujal 👋
-I build AI-powered products and backend systems. I'm especially interested in making LLM applications reliable enough for real workflows — not just demos.
-- Currently building: Sentinel-SRE, an AI-powered incident investigation and root-cause analysis platform.
-- Previously shipped: LexGuard AI, a multi-tenant compliance analysis SaaS.
-- Industry experience: Data Analyst & Automation Intern at BHEL, working with Python, SQL, forecasting, and operational dashboards.
-- Also built: Tab Hibernator Pro, a published Chrome extension that reached 2,400+ weekly active users at its peak.
-- Open to: AI engineering, backend, full-stack, and 2027 graduate software engineering opportunities.
+---
+## Hey, I'm Sujal 👋
 
-Selected work
+I build **AI-powered products and backend systems**. I'm especially interested in making LLM applications reliable enough for real workflows — not just demos.
+
+- **Currently building:** [Sentinel-SRE](https://sentinelsre.vercel.app), an AI-powered incident investigation and root-cause analysis platform.
+- **Previously shipped:** [LexGuard AI](https://lexguard.co.in), a multi-tenant compliance analysis SaaS.
+- **Industry experience:** Data Analyst & Automation Intern at **BHEL**, working with Python, SQL, forecasting, and operational dashboards.
+- **Also built:** **Tab Hibernator Pro**, a published Chrome extension that reached **2,400+ weekly active users** at its peak.
+- **Open to:** AI engineering, backend, full-stack, and 2027 graduate software engineering opportunities.
+
+## Selected work
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -40,35 +44,53 @@ Selected work
       <div><a href="https://lexguard.co.in"><strong>Explore live project ↗</strong></a></div>
     </td>
   </tr>
-</table><details>
+</table>
+
+<details>
 <summary><strong>More things I've built</strong></summary>
 <p><strong>Tab Hibernator Pro — Chrome extension:</strong> Reduces inactive-tab memory use while protecting active media and form inputs. Reached 2.4K+ weekly active users at peak.</p>
 <p><strong>Warehouse optimization — BHEL:</strong> Built Python/SQL pipelines, forecasting models, and KPI dashboards for inventory monitoring and reorder planning.</p>
-</details>Toolbox
-Languages & frameworks
+</details>
 
 
+---
 
+## Toolbox
 
+### Languages & frameworks
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+### AI & data
 
-AI & data
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+**Applied AI:** RAG · LLM agents · LlamaIndex · ChromaDB · Vector search · Prompt engineering
 
+### Cloud & tooling
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+---
 
-Applied AI: RAG · LLM agents · LlamaIndex · ChromaDB · Vector search · Prompt engineering
-Cloud & tooling
+## Certification
 
-
-
-
-
-
-
-Certification
 <table>
   <tr>
     <td width="135" align="center" valign="middle">
@@ -80,11 +102,20 @@ Certification
       <sub>Agentic AI foundations · LLMs · AI agents and workflows</sub>
     </td>
   </tr>
-</table>GitHub activity
+</table>
+
+---
+
+## GitHub activity
+
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujalmeena7&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide=contribs&amp;include_all_commits=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=C9D1D9" alt="Sujal's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmeena7&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;langs_count=6" alt="Most used languages on GitHub" />
-</div><div align="center">
+</div>
+
+---
+
+<div align="center">
 <strong>Let's build something useful.</strong><br/>
 <a href="https://www.sujalmeena.xyz/">Portfolio</a> · <a href="https://linkedin.com/in/sujal-meena-170418371">LinkedIn</a> · <a href="https://peerlist.io/meenasujal">Peerlist</a> · <a href="https://x.com/sujal_meena_">X</a> · <a href="mailto:meenasujal60@gmail.com">Email</a><br/>
 <sub>Open to engineering internships and 2027 graduate opportunities.</sub>
